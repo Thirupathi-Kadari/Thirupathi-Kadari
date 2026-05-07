@@ -211,9 +211,9 @@ class ThirupathiKadari:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Thirupathi_Kadari?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/Thirupathi_Kadari/)
 
 </div>
--->
----
 
+---
+-->
 ## 📚 Publications
 
 <table>
