@@ -1,36 +1,49 @@
-# 👋 Hello, I'm Thirupathi Kadari
+<h1 align="center">Hi 👋, I'm Thirupathi Kadari</h1>
 
-🚀 **AI / ML Engineer | Generative AI | RAG Systems**  
-📍 New Jersey, USA  
-📧 tkadari.ai@gmail.com
-🔗 [Portfolio](https://thirupathi-kadari.github.io/portfolio/) |
+<h3 align="center">
+AI/ML Engineer | Generative AI | RAG Systems | Computer Vision | MLOps
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI+%7C+RAG+%7C+Agents;Computer+Vision+%7C+Deep+Learning;Building+Production-Ready+AI+Systems" />
+</p>
+
+<p align="center">
+  <a href="https://thirupathi-kadari.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:tkadari.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Thirupathi_Kadari/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://dl.acm.org/doi/10.1145/3761712.3761786">
+    <img src="https://img.shields.io/badge/Publication-ACM-blue?style=for-the-badge&logo=acm&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I am an AI/ML Engineer with experience in building real-world AI systems including Retrieval-Augmented Generation (RAG), computer vision models, and scalable ML pipelines.
+I am an AI/ML Engineer focused on building production-ready AI systems using Generative AI, RAG, Computer Vision, and MLOps.
 
-I specialize in:
-- Generative AI (GPT, RAG, Agents)
-- Machine Learning & Deep Learning
-- End-to-End AI Deployment (Docker, Kubernetes, Cloud)
+I have hands-on experience with end-to-end machine learning workflows including data preprocessing, model development, evaluation, deployment, and monitoring.
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 What I Work On
 
-![Thirupathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thirupathi-Kadari&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thirupathi-Kadari&layout=compact&theme=radical)
-
-![Streak](https://streak-stats.demolab.com?user=Thirupathi-Kadari&theme=radical)
+- 🤖 Generative AI, RAG, LLM Applications, AI Agents
+- 🧠 Machine Learning, Deep Learning, NLP, Computer Vision
+- 🛠️ PyTorch, TensorFlow, LangChain, LangGraph, Scikit-learn
+- ☁️ GCP, Vertex AI, AWS, Azure ML, Docker, Kubernetes
+- 📊 Data Analysis, Visualization, SQL, Power BI, Tableau
 
 ---
 
 ## 🛠️ Skills
-
-## 🛠️ Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,16 +52,14 @@ I specialize in:
 
 ### ML / Generative AI
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge)
-![Classification](https://img.shields.io/badge/Classification-blue?style=for-the-badge)
-![Regression](https://img.shields.io/badge/Regression-green?style=for-the-badge)
-![Clustering](https://img.shields.io/badge/Clustering-orange?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge)
-![BERT](https://img.shields.io/badge/BERT-00599C?style=for-the-badge)
-![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
-![CNNs](https://img.shields.io/badge/CNNs-8A2BE2?style=for-the-badge)
+![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-00599C?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge)
+![CNNs](https://img.shields.io/badge/CNNs-DC143C?style=for-the-badge)
 ![RNNs](https://img.shields.io/badge/RNNs-20B2AA?style=for-the-badge)
-![GANs](https://img.shields.io/badge/GANs-DC143C?style=for-the-badge)
+![GANs](https://img.shields.io/badge/GANs-6A5ACD?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-black?style=for-the-badge)
 
 ### Frameworks
@@ -62,13 +73,11 @@ I specialize in:
 ![JAX](https://img.shields.io/badge/JAX-FF9900?style=for-the-badge)
 ![LoRA](https://img.shields.io/badge/LoRA-6A5ACD?style=for-the-badge)
 ![Optuna](https://img.shields.io/badge/Optuna-00264D?style=for-the-badge)
-![Dynamax](https://img.shields.io/badge/Dynamax-4B0082?style=for-the-badge)
 
 ### MLOps & Cloud
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 ![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -89,47 +98,32 @@ I specialize in:
 
 ---
 
-## 💼 Projects
+## ⭐ Featured Projects
 
-### 🔹 NutriDetect (Published)
-AI-powered food detection system using YOLO models with nutritional analysis.
+### 🥗 NutriDetect
+AI-powered food detection and nutrition analysis system using YOLO and deep learning.
 
-👉 [View Project](https://github.com/Thirupathi-Kadari/Nutridetect)
+🔗 [View Project](https://github.com/Thirupathi-Kadari/Nutridetect)
 
----
+### 🤖 RAG-Based AI Assistant
+Built a Retrieval-Augmented Generation system using embeddings, FAISS, LangChain, and GPT.
 
-### 🔹 RAG-based AI Assistant
-Built enterprise-grade RAG system using:
-- OpenAI embeddings
-- FAISS vector database
-- LangChain / LangGraph
+### 👁️ Computer Vision Projects
+Object detection, image segmentation, and classification projects using PyTorch and deep learning.
 
 ---
 
-### 🔹 Computer Vision Projects
-- Object Detection (YOLO, Faster R-CNN)
-- Medical Image Analysis
-- Image Segmentation
+## 📚 Publications
+
+- 🧾 NutriDetect — AI-based food detection and nutrition analysis  
+  🔗 [View Publication](https://dl.acm.org/doi/10.1145/3761712.3761786)
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-I'm actively looking for AI/ML Engineer roles and open to collaboration.
+I am open to AI Engineer, ML Engineer, Generative AI Engineer, and Data Scientist roles.
 
-⭐ If you like my work, consider giving a star to my repositories!
-
-<!--
-**Thirupathi-Kadari/Thirupathi-Kadari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 New Jersey, USA  
+📧 tkadari.ai@gmail.com   
+🔗 [Portfolio](https://thirupathi-kadari.github.io/portfolio/)
