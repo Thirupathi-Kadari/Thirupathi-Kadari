@@ -187,9 +187,11 @@ class ThirupathiKadari:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Thirupathi-Kadari&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&count_private=true" />
+<img height="165" src="https://github-readme-stats-one-henna-51.vercel.app/api?username=Thirupathi-Kadari&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&count_private=true" />
+
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thirupathi-Kadari&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8" />
+
+<img height="165" src="https://github-readme-stats-one-henna-51.vercel.app/api/top-langs/?username=Thirupathi-Kadari&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
