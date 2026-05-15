@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
 <!-- Animated Name -->
-<a href="https://thirupathi-kadari.github.io/portfolio/">
+<a href="https://https://tkadari.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=Thirupathi+Kadari;AI+%2F+ML+Engineer;Generative+AI+%7C+RAG+%7C+Agents;Building+Production+AI+Systems" alt="Thirupathi Kadari" />
 </a>
 
