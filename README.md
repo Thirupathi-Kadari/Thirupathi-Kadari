@@ -251,7 +251,7 @@ I'm actively exploring roles where I can:
 
 [![Email](https://img.shields.io/badge/tkadari.ai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tkadari.ai@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://thirupathi-kadari.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://tkadari.vercel.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" width="100%"/>
 
